@@ -1,0 +1,11 @@
+   NPL usually stands for Non-Performing Loans in finance, 
+which are bank loans that are in default or close to default 
+because the borrower has not made scheduled interest or 
+principal payments for a specified period, typically 90 days. 
+When economic downturns occur or borrowers face financial distress, 
+NPL ratios rise, forcing banks to write off the bad debt, clear 
+it from their balance sheets, or sell it to distressed asset funds. 
+High levels of these delinquent loans can severely damage a financial 
+institution's profitability, tie up capital that could otherwise be 
+used for new lending, and pose broader systemic risks to the entire 
+banking sector.    
