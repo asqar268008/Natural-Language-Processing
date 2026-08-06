@@ -20,6 +20,6 @@ async def predict_spam(request: SMSRequest):
     probability = model.predict_proba(vectorized_text)[0][1] # Probability of spam
     
     return {
-        "label": "harmful" if prediction == 1 else "spam",
+        "label": "harmful" if prediction == "ham" else "spam",
         "spam_probability": float(probability)
     }
